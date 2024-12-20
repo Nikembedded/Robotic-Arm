@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=SCH001.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=SCH001.SchDoc|FileName=SCH002.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=SCH001.SchDoc|FileName=SCH003.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=SCH001.SchDoc|FileName=SCH004.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=SCH001.SchDoc|FileName=SCH005.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=SCH001.SchDoc|FileName=SCH006.SchDoc|SheetNumber=6
