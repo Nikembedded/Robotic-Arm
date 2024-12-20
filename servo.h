@@ -2,12 +2,12 @@
 // COMPANY      : Confederation College
 // FILE         : SERVO.H
 // FILE VERSION : 1.0.0
-// PROGRAMMER   : Programmer Name
+// PROGRAMMER   : Nikhil Premjani
 //---------------------------------------------------------------------------
 // REVISION HISTORY
 //---------------------------------------------------------------------------
 //
-// 1.0, YYYY-MM-DD, Programmer Name
+// 1.0, 2024-06-07,Nikhil Premjani
 //   - Initial release
 //
 //----------------------------------------------------------------------------
